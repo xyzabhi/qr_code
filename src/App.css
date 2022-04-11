@@ -1,0 +1,10 @@
+body {
+  font-family: "Outfit", sans-serif;
+  background-color: #d5e1ef;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  resize: auto;
+  overflow: auto;
+  height: 100vh;
+}

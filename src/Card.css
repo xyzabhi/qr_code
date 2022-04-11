@@ -1,0 +1,21 @@
+.card {
+  border-radius: 4%;
+  padding: 20px;
+  width: 275px;
+  background-color: white;
+}
+.card-img {
+  border-radius: 10px;
+  width: 100%;
+}
+.card-title {
+  color: #334160;
+  text-align: center;
+  font-size: 24px;
+}
+.card-desc {
+  color: #a4a8b6;
+  font-weight: 500;
+  text-align: center;
+  font-size: 15px;
+}
